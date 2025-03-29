@@ -1,0 +1,14 @@
+github.com/aws/aws-sdk-go-v2 v1.17.2 h1:abcdefg123456789
+github.com/aws/aws-sdk-go-v2 v1.17.2/go.mod h1:abcdefg123456789
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:abcdefg123456789
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:abcdefg123456789
+github.com/gorilla/context v1.1.1 h1:abcdefg123456789
+github.com/gorilla/context v1.1.1/go.mod h1:abcdefg123456789
+github.com/gorilla/mux v1.8.0 h1:abcdefg123456789
+github.com/gorilla/mux v1.8.0/go.mod h1:abcdefg123456789
+github.com/joho/godotenv v1.4.0 h1:abcdefg123456789
+github.com/joho/godotenv v1.4.0/go.mod h1:abcdefg123456789
+github.com/lib/pq v1.10.3 h1:abcdefg123456789
+github.com/lib/pq v1.10.3/go.mod h1:abcdefg123456789
+github.com/redis/go-redis/v9 v9.0.5 h1:abcdefg123456789
+github.com/redis/go-redis/v9 v9.0.5/go.mod h1:abcdefg123456789
